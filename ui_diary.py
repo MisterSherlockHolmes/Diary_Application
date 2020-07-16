@@ -94,7 +94,7 @@ class Ui_Diary(object):
         Diary.setWindowTitle(QCoreApplication.translate("Diary", u"\u65e5\u8bb0\u7f16\u8f91\u8f6f\u4ef6", None))
         self.rb_background_music.setText(QCoreApplication.translate("Diary", u"\u80cc\u666f\u97f3\u4e50", None))
         self.pb_time.setText(QCoreApplication.translate("Diary", u"\u73b0\u5728\u65f6\u95f4", None))
-        self.pte_diary.setPlainText(QCoreApplication.translate("Diary", u"\u8bf7\u8f93\u5165\u5185\u5bb9", None))
+        #self.pte_diary.setPlainText(QCoreApplication.translate("Diary", u"\u8bf7\u8f93\u5165\u5185\u5bb9", None))
         self.pte_diary.setPlaceholderText(QCoreApplication.translate("Diary", u"\u8bf7\u8f93\u5165\u5185\u5bb9", None))
         self.title.setText(QCoreApplication.translate("Diary", u"\u65e5\u8bb0\u7f16\u8f91\u5668", None))
         self.label.setText(QCoreApplication.translate("Diary", u"\u5341\u5b57\u5144\u5f1f\u6709\u9650\u516c\u53f8\u51fa\u54c1", None))
